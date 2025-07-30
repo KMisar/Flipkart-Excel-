@@ -6,9 +6,8 @@ This project presents a detailed analysis of Flipkart’s mobile phone dataset u
 ---
 
 ## 🖼 Dashboard Screenshot  
-![Flipkart Dataset Analysis & Visualization](sandbox:/naXsoZY8UpaynCkY2d4fe.png)
+<img width="1528" height="750" alt="Flipkart" src="https://github.com/user-attachments/assets/dd0a7e81-d257-43ae-b3ac-5bf901463f66" />
 
----
 
 ## 📊 Key Metrics
 
