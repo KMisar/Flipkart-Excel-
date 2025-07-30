@@ -1,7 +1,3 @@
-Here’s a complete and professional *README content* for your GitHub project titled *Flipkart Dataset Analysis & Visualization*, based on the dashboard you provided:
-
----
-
 # 📱 Flipkart Dataset Analysis & Visualization
 
 ## 📝 Project Overview  
